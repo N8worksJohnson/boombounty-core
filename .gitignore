@@ -1,0 +1,3 @@
+packets/*.md
+packets/*.md
+!packets/*.gpp
